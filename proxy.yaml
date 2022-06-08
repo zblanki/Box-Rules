@@ -8,15 +8,25 @@ payload:
   - DOMAIN-SUFFIX,cocomanga.com
   - DOMAIN-SUFFIX,misakaf.xyz
 # 绅士代理
-  - DOMAIN-SUFFIX,cangku.icu
+## 综合网站
+### 萌幻之乡
   - DOMAIN-SUFFIX,hmoe11.net
-  - DOMAIN-SUFFIX,iacg.rip
-  - DOMAIN-KEYWORD,cangku
   - DOMAIN-KEYWORD,hmoe
+### 绅士仓库
+  - DOMAIN-SUFFIX,cangku.icu
+  - DOMAIN-KEYWORD,cangku
+### IACG.RIP
+#  - DOMAIN-SUFFIX,iacg.rip
+  - DOMAIN-SUFFIX,iacg.site
   - DOMAIN-KEYWORD,iacg
+## 音声
+### ASMR Online
   - DOMAIN-SUFFIX,asmr.one
-  - DOMAIN-SUFFIX,file.tinyfsh.cyou
+### 风花雪月汉化组
   - DOMAIN-SUFFIX,fhxyyss.com
+### 橙澄子汉化组
+  - DOMAIN-SUFFIX,file.tinyfsh.cyou
+## MexaShare网盘
   - DOMAIN-SUFFIX,mexa.sh
 # 兴趣代理
   - DOMAIN-SUFFIX,hax.co.id
