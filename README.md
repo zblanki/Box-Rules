@@ -1,2 +1,2 @@
-# Clash-RulesSet-Box
+# Box-Rules
 自用的Clash规则集
