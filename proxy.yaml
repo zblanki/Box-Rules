@@ -1,6 +1,5 @@
 payload:
 # 娱乐代理
-  - GEOSITE,bilibili
   - DOMAIN-SUFFIX,mikanani.me
   - DOMAIN-SUFFIX,moegirl.org.cn
   - DOMAIN-SUFFIX,nbys1.tv
