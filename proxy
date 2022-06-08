@@ -1,0 +1,28 @@
+payload:
+# 娱乐代理
+  - GEOSITE,bilibili
+  - DOMAIN-SUFFIX,mikanani.me
+  - DOMAIN-SUFFIX,moegirl.org.cn
+  - DOMAIN-SUFFIX,nbys1.tv
+  - DOMAIN-SUFFIX,cocomanga.com
+  - DOMAIN-SUFFIX,misakaf.xyz
+# 绅士代理
+  - DOMAIN-SUFFIX,cangku.icu
+  - DOMAIN-SUFFIX,hmoe11.net
+  - DOMAIN-SUFFIX,iacg.rip
+  - DOMAIN-KEYWORD,cangku
+  - DOMAIN-KEYWORD,hmoe
+  - DOMAIN-KEYWORD,iacg
+  - DOMAIN-SUFFIX,asmr.one
+  - DOMAIN-SUFFIX,file.tinyfsh.cyou
+  - DOMAIN-SUFFIX,fhxyyss.com
+  - DOMAIN-SUFFIX,mexa.sh
+# 兴趣代理
+  - DOMAIN-SUFFIX,hax.co.id
+  - DOMAIN-SUFFIX,yugogo.xyz
+  - DOMAIN-SUFFIX,virtualbox.org
+# 其他代理
+  - DOMAIN-SUFFIX,katfile.com
+  - DOMAIN-SUFFIX,bmkar.com
+  - DOMAIN-SUFFIX,rutracker.org
+  - DOMAIN-SUFFIX,byrut.org
