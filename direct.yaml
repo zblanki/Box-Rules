@@ -2,11 +2,11 @@
 # 数量：4条
 payload:
 # ntp 服务器 直连，校正时间
-  - DST-PORT,123,DIRECT,udp
-#  - AND,((DST-PORT,123),(NETWORK,UDP)),DIRECT
+#  - DST-PORT,123,DIRECT,udp
+  - AND,((DST-PORT,123),(NETWORK,UDP))
 # FCM 直连，谷歌的统一推送
-  - DST-PORT,5228-5230,DIRECT,tcp 
-#  - AND,((DST-PORT,5228-5230),(NETWORK,TCP)),DIRECT
+#  - DST-PORT,5228-5230,DIRECT,tcp 
+  - AND,((DST-PORT,5228-5230),(NETWORK,TCP))
 # 机场
   - DOMAIN-SUFFIX,xf.gl
 # 轻小说
