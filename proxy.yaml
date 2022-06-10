@@ -16,7 +16,6 @@ payload:                                #（间隔20个制表符）
   - DOMAIN-KEYWORD,iacg                 #IACG.RIP
   - DOMAIN-SUFFIX,asmr.one              #ASMR Online
   - DOMAIN-SUFFIX,fhxyyss.com           #风花雪月汉化组
-#  - DOMAIN-SUFFIX,file.tinyfsh.cyou     #橙澄子汉化组
 # 资源下载
   - DOMAIN-SUFFIX,mikanani.me           #蜜柑计划
   - DOMAIN-SUFFIX,rutracker.org         #俄罗斯综合BT
