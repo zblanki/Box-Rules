@@ -1,5 +1,6 @@
 # 内容：自用直连
 # 数量：2条
 payload:                                #（间隔20个制表符）
-  - DOMAIN-SUFFIX,xf.gl                 #XFSS机场
+  - DOMAIN-SUFFIX,36dm.club             #简单动漫
   - DOMAIN-SUFFIX,lightnovel.us         #轻之国度
+  - DOMAIN-SUFFIX,xf.gl                 #XFSS机场
