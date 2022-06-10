@@ -1,39 +1,32 @@
 # 内容：自用代理
 # 数量：22条
-payload:
-# 100 娱乐代理
-  - DOMAIN-SUFFIX,mikanani.me
-  - DOMAIN-SUFFIX,moegirl.org.cn
-  - DOMAIN-SUFFIX,nbys1.tv
-  - DOMAIN-SUFFIX,cocomanga.com
-  - DOMAIN-SUFFIX,misakaf.xyz
-# 200 绅士代理
-# 210 综合网站
-# 211 萌幻之乡
-  - DOMAIN-SUFFIX,hmoe11.net
-  - DOMAIN-KEYWORD,hmoe
-# 212 绅士仓库
-  - DOMAIN-SUFFIX,cangku.icu
-#  - DOMAIN-KEYWORD,cangku
-# 213 IACG.RIP
-#  - DOMAIN-SUFFIX,iacg.rip
-  - DOMAIN-SUFFIX,iacg.site
-  - DOMAIN-KEYWORD,iacg
-# 220 音声
-# 221 ASMR Online
-  - DOMAIN-SUFFIX,asmr.one
-# 222 风花雪月汉化组
-  - DOMAIN-SUFFIX,fhxyyss.com
-# 223 橙澄子汉化组
-  - DOMAIN-SUFFIX,file.tinyfsh.cyou
-# 230 MexaShare网盘
-  - DOMAIN-SUFFIX,mexa.sh
-# 300 兴趣代理
-  - DOMAIN-SUFFIX,hax.co.id
-  - DOMAIN-SUFFIX,yugogo.xyz
-  - DOMAIN-SUFFIX,virtualbox.org
-# 400 其他代理
-  - DOMAIN-SUFFIX,katfile.com
+payload:                                #（间隔20个制表符）
+# 娱乐
+  - DOMAIN-SUFFIX,moegirl.org.cn        #萌娘百科
+  - DOMAIN-SUFFIX,cocomanga.com         #COCO漫画
+  - DOMAIN-SUFFIX,misakaf.xyz           #misakaf Emby 公益服
+  - DOMAIN-SUFFIX,nbys1.tv              #泥巴影院
+# ACG
+  - DOMAIN-SUFFIX,hmoe11.net            #萌幻之乡
+  - DOMAIN-KEYWORD,hmoe                 #萌幻之乡
+  - DOMAIN-SUFFIX,cangku.icu            #绅士仓库
+#  - DOMAIN-KEYWORD,cangku               #绅士仓库
+#  - DOMAIN-SUFFIX,iacg.rip              #IACG.RIP
+  - DOMAIN-SUFFIX,iacg.site             #IACG.RIP
+  - DOMAIN-KEYWORD,iacg                 #IACG.RIP
+  - DOMAIN-SUFFIX,asmr.one              #ASMR Online
+  - DOMAIN-SUFFIX,fhxyyss.com           #风花雪月汉化组
+  - DOMAIN-SUFFIX,file.tinyfsh.cyou     #橙澄子汉化组
+# 资源下载
+  - DOMAIN-SUFFIX,mikanani.me           #蜜柑计划
+  - DOMAIN-SUFFIX,rutracker.org         #俄罗斯综合BT
+  - DOMAIN-SUFFIX,byrut.org             #俄罗斯游戏BT
+# 兴趣技术
+  - DOMAIN-SUFFIX,virtualbox.org        #Vbox
+  - DOMAIN-SUFFIX,yugogo.xyz            #Littleyu科学上网技术分享
+  - DOMAIN-SUFFIX,hax.co.id             #Hax免费vps
+# 国外网盘
+  - DOMAIN-SUFFIX,mexa.sh               #MexaShare网盘
+  - DOMAIN-SUFFIX,katfile.com           #Katfile网盘
+# 成人内容
   - DOMAIN-SUFFIX,bmkar.com
-  - DOMAIN-SUFFIX,rutracker.org
-  - DOMAIN-SUFFIX,byrut.org
