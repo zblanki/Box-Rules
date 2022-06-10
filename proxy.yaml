@@ -14,7 +14,7 @@ payload:
   - DOMAIN-KEYWORD,hmoe
 # 212 绅士仓库
   - DOMAIN-SUFFIX,cangku.icu
-  - DOMAIN-KEYWORD,cangku
+#  - DOMAIN-KEYWORD,cangku
 # 213 IACG.RIP
 #  - DOMAIN-SUFFIX,iacg.rip
   - DOMAIN-SUFFIX,iacg.site
