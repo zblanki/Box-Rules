@@ -1,6 +1,9 @@
 # 内容：自用代理
-# 数量：21条
+# 数量：23条
 payload:                                #（间隔20个制表符）
+# 谷歌
+  - DOMAIN-SUFFIX,translate.google.com       #谷歌翻译
+  - DOMAIN-SUFFIX,translate.googleapis.com   #谷歌翻译
 # 娱乐
   - DOMAIN-SUFFIX,moegirl.org.cn        #萌娘百科
   - DOMAIN-SUFFIX,cocomanga.com         #COCO漫画
