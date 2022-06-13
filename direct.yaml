@@ -1,8 +1,10 @@
 # 内容：自用直连
-# 数量：5条
+# 数量：5条+35条
 payload:                                #（间隔20个制表符）
+  - DST-PORT,123                        #NTP 服务器校正时间，直连
+  - DST-PORT,5228-5230                  #FCM 谷歌的统一推送，直连
   - DOMAIN-SUFFIX,ypojie.com            #亿破姐(易破解)
   - DOMAIN-SUFFIX,lightnovel.us         #轻之国度
   - DOMAIN-SUFFIX,xf.gl                 #XFSS机场
   - DOMAIN-SUFFIX,loli.net              #SM.MS免费图床的图片CDN域名
-  - DOMAIN-SUFFIX,syncthing.net         #Syncthing
+  - DOMAIN-SUFFIX,syncthing.net         #Syncthing 
