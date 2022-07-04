@@ -1,34 +1,35 @@
 # 内容：自用代理
-# 数量：22条
+# 数量：23条
 payload:                                #（间隔20个制表符）
 # 谷歌
-  - DOMAIN-SUFFIX,translate.google.com       #谷歌翻译
-  - DOMAIN-SUFFIX,translate.googleapis.com   #谷歌翻译
+  - DOMAIN-SUFFIX,services.googleapis.cn     # Google Play
+  - DOMAIN-SUFFIX,translate.google.com       # 谷歌翻译
+  - DOMAIN-SUFFIX,translate.googleapis.com   # 谷歌翻译
 # 娱乐
-  - DOMAIN-SUFFIX,moegirl.org.cn        #萌娘百科
-  - DOMAIN-SUFFIX,cocomanga.com         #COCO漫画
-  - DOMAIN-SUFFIX,misakaf.xyz           #misakaf Emby 公益服
-  - DOMAIN-SUFFIX,nbys1.tv              #泥巴影院
+  - DOMAIN-SUFFIX,moegirl.org.cn        # 萌娘百科
+  - DOMAIN-SUFFIX,cocomanga.com         # COCO漫画
+  - DOMAIN-SUFFIX,misakaf.xyz           # misakaf Emby 公益服
+  - DOMAIN-SUFFIX,nbys1.tv              # 泥巴影院
 # ACG
-  - DOMAIN-SUFFIX,hmoe11.net            #萌幻之乡
-  - DOMAIN-KEYWORD,hmoe                 #萌幻之乡
-  - DOMAIN-SUFFIX,cangku.icu            #绅士仓库
-#  - DOMAIN-KEYWORD,cangku               #绅士仓库
-#  - DOMAIN-SUFFIX,iacg.rip              #IACG.RIP
-  - DOMAIN-SUFFIX,iacg.site             #IACG.RIP
-  - DOMAIN-KEYWORD,iacg                 #IACG.RIP
-  - DOMAIN-SUFFIX,asmr.one              #ASMR Online
-  - DOMAIN-SUFFIX,fhxyyss.com           #风花雪月汉化组
+  - DOMAIN-SUFFIX,hmoe11.net            # 萌幻之乡
+  - DOMAIN-KEYWORD,hmoe                 # 萌幻之乡
+  - DOMAIN-SUFFIX,cangku.icu            # 绅士仓库
+#  - DOMAIN-KEYWORD,cangku               # 绅士仓库
+#  - DOMAIN-SUFFIX,iacg.rip              # IACG.RIP
+  - DOMAIN-SUFFIX,iacg.site             # IACG.RIP
+  - DOMAIN-KEYWORD,iacg                 # IACG.RIP
+  - DOMAIN-SUFFIX,asmr.one              # ASMR Online
+  - DOMAIN-SUFFIX,fhxyyss.com           # 风花雪月汉化组
 # 资源下载
-  - DOMAIN-SUFFIX,mikanani.me           #蜜柑计划
-  - DOMAIN-SUFFIX,rutracker.org         #俄罗斯综合BT
-  - DOMAIN-SUFFIX,byrut.org             #俄罗斯游戏BT
+  - DOMAIN-SUFFIX,mikanani.me           # 蜜柑计划
+  - DOMAIN-SUFFIX,rutracker.org         # 俄罗斯综合BT
+  - DOMAIN-SUFFIX,byrut.org             # 俄罗斯游戏BT
 # 兴趣技术
-  - DOMAIN-SUFFIX,virtualbox.org        #Vbox
-  - DOMAIN-SUFFIX,yugogo.xyz            #Littleyu科学上网技术分享
-  - DOMAIN-SUFFIX,hax.co.id             #Hax免费vps
+  - DOMAIN-SUFFIX,virtualbox.org        # Vbox
+  - DOMAIN-SUFFIX,yugogo.xyz            # Littleyu科学上网技术分享
+  - DOMAIN-SUFFIX,hax.co.id             # Hax免费vps
 # 国外网盘
-  - DOMAIN-SUFFIX,mexa.sh               #MexaShare网盘
-  - DOMAIN-SUFFIX,katfile.com           #Katfile网盘
+  - DOMAIN-SUFFIX,mexa.sh               # MexaShare网盘
+  - DOMAIN-SUFFIX,katfile.com           # Katfile网盘
 # 成人内容
   - DOMAIN-SUFFIX,bmkar.com
