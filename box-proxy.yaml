@@ -8,7 +8,6 @@ payload:                                #（间隔20个制表符）
 # 娱乐
   - DOMAIN-SUFFIX,moegirl.org.cn        # 萌娘百科
   - DOMAIN-SUFFIX,cocomanga.com         # COCO漫画
-  - DOMAIN-SUFFIX,misakaf.org           # Misakaf Emby 公益服
   - DOMAIN-SUFFIX,nbys1.tv              # 泥巴影院
 # ACG
   - DOMAIN-SUFFIX,hmoe11.net            # 萌幻之乡
