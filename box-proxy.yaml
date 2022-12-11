@@ -33,5 +33,6 @@ payload:                                #（间隔20个制表符）
 # 国外网盘
   - DOMAIN-SUFFIX,mexa.sh               # MexaShare网盘
   - DOMAIN-SUFFIX,katfile.com           # Katfile网盘
+  - DOMAIN-SUFFIX,fikper.com            # Fikper网盘
 # 成人内容
   - DOMAIN-SUFFIX,bmkar.com
