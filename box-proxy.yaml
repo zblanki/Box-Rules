@@ -1,5 +1,5 @@
 # 内容：自用代理
-# 数量：24条
+# 数量：26条
 payload:                                #（间隔20个制表符）
 # 谷歌
   - DOMAIN-SUFFIX,services.googleapis.cn     # Google Play
@@ -9,7 +9,8 @@ payload:                                #（间隔20个制表符）
   - DOMAIN-SUFFIX,moegirl.org.cn        # 萌娘百科
   - DOMAIN-SUFFIX,cocomanga.com         # COCO漫画
   - DOMAIN-SUFFIX,nbys1.tv              # 泥巴影院
-# ACG
+# ACGMN
+  - DOMAIN-KEYWORD,tsdm                 # 天使动漫论坛
   - DOMAIN-SUFFIX,hmoe11.net            # 萌幻之乡
   - DOMAIN-KEYWORD,hmoe                 # 萌幻之乡
   - DOMAIN-SUFFIX,cangku.icu            # 绅士仓库
