@@ -1,5 +1,5 @@
 # 内容：自用代理
-# 数量：26条
+# 数量：22条
 payload:                                #（间隔20个制表符）
 # 谷歌
   - DOMAIN-SUFFIX,services.googleapis.cn     # Google Play
