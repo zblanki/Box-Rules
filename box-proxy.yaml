@@ -11,13 +11,6 @@ payload:                                #（间隔20个制表符）
   - DOMAIN-SUFFIX,nbys1.tv              # 泥巴影院
 # ACGMN
   - DOMAIN-KEYWORD,tsdm                 # 天使动漫论坛
-  - DOMAIN-SUFFIX,hmoe12.com            # 萌幻之乡
-  - DOMAIN-KEYWORD,hmoe                 # 萌幻之乡
-  - DOMAIN-SUFFIX,cangku.icu            # 绅士仓库
-#  - DOMAIN-KEYWORD,cangku               # 绅士仓库
-#  - DOMAIN-SUFFIX,iacg.rip              # IACG.RIP
-  - DOMAIN-SUFFIX,iacg.site             # IACG.RIP
-  - DOMAIN-KEYWORD,iacg                 # IACG.RIP
   - DOMAIN-SUFFIX,asmr.one              # ASMR Online
   - DOMAIN-SUFFIX,fhxyyss.com           # 风花雪月汉化组
 # 资源下载
