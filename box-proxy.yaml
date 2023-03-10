@@ -8,7 +8,7 @@ payload:                                #（间隔20个制表符）
 # 娱乐
   - DOMAIN-SUFFIX,moegirl.org.cn        # 萌娘百科
   - DOMAIN-SUFFIX,cocomanga.com         # COCO漫画
-  - DOMAIN-SUFFIX,nbys1.tv              # 泥巴影院
+  - DOMAIN-SUFFIX,nivod4.tv             # 泥巴影院
 # ACGMN
   - DOMAIN-KEYWORD,tsdm                 # 天使动漫论坛
   - DOMAIN-SUFFIX,asmr.one              # ASMR Online
