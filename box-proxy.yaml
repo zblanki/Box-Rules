@@ -12,9 +12,9 @@ payload:                                #（间隔20个制表符）
   - DOMAIN-SUFFIX,manwa.me              # 漫蛙 
 # ACGMN
   - DOMAIN-KEYWORD,tsdm                 # 天使动漫论坛
+  - DOMAIN-KEYWORD,sayhuahuo            # 花火学园
   - DOMAIN-SUFFIX,asmr.one              # ASMR Online
   - DOMAIN-SUFFIX,fhxyyss.com           # 风花雪月汉化组
-  - DOMAIN-SUFFIX,sayhuahuo.xyz         # 花火学园
 # 资源下载
   - DOMAIN-SUFFIX,zlib.cydiar.com       # Zlibrary
   - DOMAIN-SUFFIX,mikanani.me           # 蜜柑计划
