@@ -1,5 +1,5 @@
 # 内容：自用代理
-# 数量：24条
+# 数量：25条
 payload:                                #（间隔20个制表符）
 # 谷歌
   - DOMAIN-SUFFIX,services.googleapis.cn     # Google Play
@@ -17,8 +17,9 @@ payload:                                #（间隔20个制表符）
   - DOMAIN-SUFFIX,asmr.one              # ASMR Online
   - DOMAIN-SUFFIX,fhxyyss.com           # 风花雪月汉化组
 # 资源下载
-  - DOMAIN-SUFFIX,zlib.cydiar.com       # Zlibrary
   - DOMAIN-SUFFIX,mikanani.me           # 蜜柑计划
+  - DOMAIN-SUFFIX,bangumi.moe           # 萌番组
+  - DOMAIN-SUFFIX,zlib.cydiar.com       # Zlibrary
   - DOMAIN-SUFFIX,rutracker.org         # 俄罗斯综合BT
   - DOMAIN-SUFFIX,byrut.org             # 俄罗斯游戏BT
 # 兴趣技术
