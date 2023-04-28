@@ -1,5 +1,5 @@
 # 内容：自用代理
-# 数量：25条
+# 数量：26条
 payload:                                #（间隔20个制表符）
 # 谷歌
   - DOMAIN-SUFFIX,services.googleapis.cn     # Google Play
@@ -9,8 +9,9 @@ payload:                                #（间隔20个制表符）
   - DOMAIN-SUFFIX,moegirl.org.cn        # 萌娘百科
   - DOMAIN-SUFFIX,hmoe12.com            # 萌幻之乡
   - DOMAIN-SUFFIX,colamanhua.com        # COCO漫画
+  - DOMAIN-SUFFIX,manwa.me              # 漫蛙
   - DOMAIN-SUFFIX,nivod4.tv             # 泥巴影院
-  - DOMAIN-SUFFIX,manwa.me              # 漫蛙 
+  - DOMAIN-SUFFIX,freevod.org           # Free视频
 # ACGMN
   - DOMAIN-KEYWORD,tsdm                 # 天使动漫论坛
   - DOMAIN-KEYWORD,sayhuahuo            # 花火学园
