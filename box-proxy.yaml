@@ -1,5 +1,5 @@
 # 内容：自用代理
-# 数量：28条
+# 数量：29条
 payload:                                #（间隔20个制表符）
 # 谷歌
   - DOMAIN-SUFFIX,services.googleapis.cn     # Google Play
@@ -34,5 +34,6 @@ payload:                                #（间隔20个制表符）
   - DOMAIN-SUFFIX,mexa.sh               # MexaShare网盘
   - DOMAIN-SUFFIX,katfile.com           # Katfile网盘
   - DOMAIN-SUFFIX,fikper.com            # Fikper网盘
+  - DOMAIN-SUFFIX,uploadgig.com         # uploadgig网盘
 # 成人内容
   - DOMAIN-SUFFIX,bmkar.com
