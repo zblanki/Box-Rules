@@ -7,7 +7,7 @@ payload:                                #（间隔20个制表符）
   - DOMAIN-SUFFIX,translate.googleapis.com   # 谷歌翻译
 # 娱乐
   - DOMAIN-SUFFIX,moegirl.org.cn        # 萌娘百科
-  - DOMAIN-SUFFIX,hmoe12.com            # 萌幻之乡
+  - DOMAIN-SUFFIX,hmoeh.com            # 萌幻之乡
   - DOMAIN-SUFFIX,colamanhua.com        # COCO漫画
   - DOMAIN-SUFFIX,manwa.me              # 漫蛙
   - DOMAIN-SUFFIX,nivod4.tv             # 泥巴影院
