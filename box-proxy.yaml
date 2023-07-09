@@ -1,5 +1,5 @@
 # 内容：自用代理
-# 数量：29条
+# 数量：30条
 payload:                                #（间隔20个制表符）
 # 谷歌
   - DOMAIN-SUFFIX,services.googleapis.cn     # Google Play
@@ -30,6 +30,7 @@ payload:                                #（间隔20个制表符）
   - DOMAIN-SUFFIX,yugogo.xyz            # Littleyu科学上网技术分享
   - DOMAIN-SUFFIX,bulianglin.com        # 不良林
   - DOMAIN-SUFFIX,hax.co.id             # Hax免费vps
+  - DOMAIN-SUFFIX,uuu.glass             # iQZone
 # 国外网盘
   - DOMAIN-SUFFIX,mexa.sh               # MexaShare网盘
   - DOMAIN-SUFFIX,katfile.com           # Katfile网盘
