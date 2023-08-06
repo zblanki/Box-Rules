@@ -36,5 +36,6 @@ payload:                                #（间隔20个制表符）
   - DOMAIN-SUFFIX,katfile.com           # Katfile网盘
   - DOMAIN-SUFFIX,fikper.com            # Fikper网盘
   - DOMAIN-SUFFIX,uploadgig.com         # uploadgig网盘
-# 成人内容
-  - DOMAIN-SUFFIX,bmkar.com
+# 其他
+  - DOMAIN-SUFFIX,bmkar.com             # 無名網 R18
+  - DOMAIN-SUFFIX,eitherchoice.com      # EitherChoice AI对比
