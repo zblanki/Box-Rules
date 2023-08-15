@@ -1,5 +1,5 @@
 # 内容：自用代理
-# 数量：31条
+# 数量：32条
 payload:                                #（间隔20个制表符）
 # 谷歌
   - DOMAIN-SUFFIX,services.googleapis.cn     # Google Play
@@ -39,3 +39,4 @@ payload:                                #（间隔20个制表符）
 # 其他
   - DOMAIN-SUFFIX,bmkar.com             # 無名網 R18
   - DOMAIN-SUFFIX,eitherchoice.com      # EitherChoice AI对比
+  - DOMAIN-SUFFIX,tiekoetter.com        # SearXNG 搜索引擎
