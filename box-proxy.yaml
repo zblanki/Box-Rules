@@ -1,5 +1,5 @@
 # 内容：自用代理
-# 数量：33条
+# 数量：34条
 payload:                                #（间隔20个制表符）
 # 谷歌
   - DOMAIN-SUFFIX,services.googleapis.cn     # Google Play
@@ -20,6 +20,7 @@ payload:                                #（间隔20个制表符）
   - DOMAIN-SUFFIX,fhxyyss.com           # 风花雪月汉化组
   - DOMAIN-KEYWORD,bjgzm                # 北极汉化组
   - DOMAIN-SUFFIX,anime-sharing.com     # Anime-Sharing
+  - DOMAIN-SUFFIX,saucenao.com          # SauceNAO
 # 资源下载
   - DOMAIN-SUFFIX,mikanani.me           # 蜜柑计划
   - DOMAIN-SUFFIX,bangumi.moe           # 萌番组
