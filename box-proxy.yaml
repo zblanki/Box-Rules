@@ -1,5 +1,5 @@
 # 内容：自用代理
-# 数量：34条
+# 数量：30条
 payload:                                #（间隔20个制表符）
 # 谷歌
   - DOMAIN-SUFFIX,services.googleapis.cn     # Google Play
@@ -33,11 +33,6 @@ payload:                                #（间隔20个制表符）
   - DOMAIN-SUFFIX,bulianglin.com        # 不良林
   - DOMAIN-SUFFIX,hax.co.id             # Hax免费vps
   - DOMAIN-SUFFIX,uuu.glass             # iQZone
-# 国外网盘
-  - DOMAIN-SUFFIX,mexa.sh               # MexaShare网盘
-  - DOMAIN-SUFFIX,katfile.com           # Katfile网盘
-  - DOMAIN-SUFFIX,fikper.com            # Fikper网盘
-  - DOMAIN-SUFFIX,uploadgig.com         # uploadgig网盘
 # 其他
   - DOMAIN-SUFFIX,bmkar.com             # 無名網 R18
   - DOMAIN-SUFFIX,eitherchoice.com      # EitherChoice AI对比
