@@ -1,5 +1,5 @@
 # 内容：自用代理
-# 数量：30条
+# 数量：31条
 payload:                                #（间隔20个制表符）
 # 谷歌
   - DOMAIN-SUFFIX,services.googleapis.cn     # Google Play
@@ -15,6 +15,7 @@ payload:                                #（间隔20个制表符）
 # ACGMN
   - DOMAIN-KEYWORD,tsdm                 # 天使动漫论坛
   - DOMAIN-KEYWORD,hmoe                 # 萌幻之乡
+  - DOMAIN-KEYWORD,cangku               # 绅士仓库
   - DOMAIN-KEYWORD,sayhuahuo            # 花火学园
   - DOMAIN-SUFFIX,asmr.one              # ASMR Online
   - DOMAIN-SUFFIX,fhxyyss.com           # 风花雪月汉化组
