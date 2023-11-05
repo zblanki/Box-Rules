@@ -1,5 +1,5 @@
 # 内容：自用代理
-# 数量：31条
+# 数量：30条
 payload:                                #（间隔20个制表符）
 # 谷歌
   - DOMAIN-SUFFIX,services.googleapis.cn     # Google Play
@@ -11,7 +11,6 @@ payload:                                #（间隔20个制表符）
   - DOMAIN-SUFFIX,manwa.me              # 漫蛙
   - DOMAIN-SUFFIX,nivod4.tv             # 泥巴影院
   - DOMAIN-SUFFIX,freevod.org           # Free视频
-  - DOMAIN-SUFFIX,embyplus.org          # Emby公益服 纸片人小站
 # ACGMN
   - DOMAIN-KEYWORD,tsdm                 # 天使动漫论坛
   - DOMAIN-KEYWORD,hmoe                 # 萌幻之乡
