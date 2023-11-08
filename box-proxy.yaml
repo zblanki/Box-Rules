@@ -1,10 +1,15 @@
 # 内容：自用代理
-# 数量：30条
+# 数量：32条
 payload:                                #（间隔20个制表符）
 # 谷歌
-  - DOMAIN-SUFFIX,services.googleapis.cn     # Google Play
-  - DOMAIN-SUFFIX,translate.google.com       # 谷歌翻译
-  - DOMAIN-SUFFIX,translate.googleapis.com   # 谷歌翻译
+#  - DOMAIN-SUFFIX,services.googleapis.cn     # Google Play
+#  - DOMAIN-SUFFIX,translate.google.com       # 谷歌翻译
+#  - DOMAIN-SUFFIX,translate.googleapis.com   # 谷歌翻译
+  - DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+  - DOMAIN-SUFFIX,translate.google.com  # 谷歌翻译
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com   # Google Play国内CDN
+  - DOMAIN-SUFFIX,googleapis.cn
+  - DOMAIN-SUFFIX,googleapis.com
 # 娱乐
   - DOMAIN-SUFFIX,moegirl.org.cn        # 萌娘百科
   - DOMAIN-SUFFIX,colamanga.com         # COCO漫画
