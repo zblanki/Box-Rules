@@ -1,5 +1,5 @@
 # 内容：自用代理
-# 数量：32条
+# 数量：33条
 payload:                                #（间隔20个制表符）
 # 谷歌
 #  - DOMAIN-SUFFIX,services.googleapis.cn     # Google Play
@@ -21,6 +21,7 @@ payload:                                #（间隔20个制表符）
   - DOMAIN-KEYWORD,hmoe                 # 萌幻之乡
   - DOMAIN-KEYWORD,cangku               # 绅士仓库
   - DOMAIN-KEYWORD,sayhuahuo            # 花火学园
+  - DOMAIN-KEYWORD,acgfun.top           # AcgFun
   - DOMAIN-SUFFIX,asmr.one              # ASMR Online
   - DOMAIN-SUFFIX,fhxyyss.com           # 风花雪月汉化组
   - DOMAIN-KEYWORD,bjgzm                # 北极汉化组
