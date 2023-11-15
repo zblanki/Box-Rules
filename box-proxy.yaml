@@ -1,5 +1,5 @@
 # 内容：自用代理
-# 数量：34条
+# 数量：30条
 payload:                                #（间隔20个制表符）
 # 谷歌
 #  - DOMAIN-SUFFIX,services.googleapis.cn     # Google Play
@@ -14,7 +14,7 @@ payload:                                #（间隔20个制表符）
   - DOMAIN-SUFFIX,moegirl.org.cn        # 萌娘百科
   - DOMAIN-SUFFIX,colamanga.com         # COCO漫画
   - DOMAIN-SUFFIX,manwa.me              # 漫蛙
-  - DOMAIN-SUFFIX,nivod4.tv             # 泥巴影院
+#  - DOMAIN-SUFFIX,nivod4.tv             # 泥巴影院
   - DOMAIN-SUFFIX,freevod.org           # Free视频
 # ACGMN
   - DOMAIN-KEYWORD,tsdm                 # 天使动漫论坛
@@ -31,14 +31,13 @@ payload:                                #（间隔20个制表符）
 # 资源下载
   - DOMAIN-SUFFIX,mikanani.me           # 蜜柑计划
   - DOMAIN-SUFFIX,bangumi.moe           # 萌番组
-  - DOMAIN-SUFFIX,zlib.cydiar.com       # Zlibrary
   - DOMAIN-SUFFIX,rutracker.org         # 俄罗斯综合BT
-  - DOMAIN-SUFFIX,byrut.org             # 俄罗斯游戏BT
+#  - DOMAIN-SUFFIX,byrut.org             # 俄罗斯游戏BT
 # 兴趣技术
   - DOMAIN-SUFFIX,virtualbox.org        # Vbox
   - DOMAIN-SUFFIX,yugogo.xyz            # Littleyu科学上网技术分享
   - DOMAIN-SUFFIX,bulianglin.com        # 不良林
-  - DOMAIN-SUFFIX,hax.co.id             # Hax免费vps
+#  - DOMAIN-SUFFIX,hax.co.id             # Hax免费vps
   - DOMAIN-SUFFIX,uuu.glass             # iQZone
 # 其他
   - DOMAIN-SUFFIX,bmkar.com             # 無名網 R18
