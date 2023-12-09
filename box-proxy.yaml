@@ -1,44 +1,57 @@
-# 内容：自用代理
-# 数量：29条
 payload:                                #（间隔20个制表符）
-# 谷歌
+# ACGMN
+  - DOMAIN-SUFFIX,anime-sharing.com     # Anime-Sharing
+  - DOMAIN-SUFFIX,acgfun.top            # AcgFun
+  - DOMAIN-SUFFIX,cangku.moe            # 绅士仓库
+  - DOMAIN-SUFFIX,hembed.com            # hanime1.me CDN
+  - DOMAIN-KEYWORD,sayhuahuo            # 花火学园
+  - DOMAIN-SUFFIX,iacg.rip              # IACG
+  - DOMAIN-SUFFIX,iacg.site
+  - DOMAIN-KEYWORD,hmoe                 # 萌幻之乡
+  - DOMAIN-KEYWORD,tsdm39               # 天使动漫论坛
+  - DOMAIN-SUFFIX,mikudm.net            # 天使动漫论坛 img
+  - DOMAIN-SUFFIX,saucenao.com          # SauceNAO 搜图
+  - DOMAIN-SUFFIX,reimu.net             # 绅士御所
+# App
+  - DOMAIN-SUFFIX,omnivore.app          # omnivore 稍后阅读
+# ASMR
+  - DOMAIN-SUFFIX,asmr.one              # ASMR Online
+  - DOMAIN-SUFFIX,bjgzm.com             # 北极汉化组
+  - DOMAIN-SUFFIX,fhxyyss.com           # 风花雪月汉化组
+# BT
+  - DOMAIN-SUFFIX,bangumi.moe           # 萌番组
+  - DOMAIN-SUFFIX,mikanani.me           # 蜜柑计划
+  - DOMAIN-SUFFIX,rutracker.org         # 俄罗斯综合BT
+# Blog
+  - DOMAIN-SUFFIX,bulianglin.com        # 不良林
+  - DOMAIN-SUFFIX,yugogo.xyz            # Littleyu科学上网技术分享
+# Comic
+  - DOMAIN-SUFFIX,colamanga.com         # COCO漫画
+  - DOMAIN-SUFFIX,manwa.me              # 漫蛙
+  - DOMAIN-KEYWORD,mwappimgs
+  - DOMAIN-KEYWORD,zerobyw              # zero搬运网
+# Movies
+  - DOMAIN-SUFFIX,freevod.org           # Free视频
+# Google
 #  - DOMAIN-SUFFIX,services.googleapis.cn     # Google Play
 #  - DOMAIN-SUFFIX,translate.google.com       # 谷歌翻译
 #  - DOMAIN-SUFFIX,translate.googleapis.com   # 谷歌翻译
   - DOMAIN-SUFFIX,connectivitycheck.gstatic.com
   - DOMAIN-SUFFIX,translate.google.com  # 谷歌翻译
-  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com   # Google Play国内CDN
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com   # Google Play 国内 CDN
   - DOMAIN-SUFFIX,googleapis.cn
   - DOMAIN-SUFFIX,googleapis.com
-# 娱乐
-  - DOMAIN-SUFFIX,moegirl.org.cn        # 萌娘百科
-  - DOMAIN-SUFFIX,colamanga.com         # COCO漫画
-  - DOMAIN-SUFFIX,manwa.me              # 漫蛙
-#  - DOMAIN-SUFFIX,nivod4.tv             # 泥巴影院
-  - DOMAIN-SUFFIX,freevod.org           # Free视频
-# ACGMN
-  - DOMAIN-KEYWORD,tsdm                 # 天使动漫论坛
-  - DOMAIN-KEYWORD,hmoe                 # 萌幻之乡
-  - DOMAIN-KEYWORD,cangku               # 绅士仓库
-  - DOMAIN-KEYWORD,sayhuahuo            # 花火学园
-  - DOMAIN-KEYWORD,zerobyw              # zero搬运网
-  - DOMAIN-SUFFIX,acgfun.top            # AcgFun
-  - DOMAIN-SUFFIX,asmr.one              # ASMR Online
-  - DOMAIN-SUFFIX,fhxyyss.com           # 风花雪月汉化组
-  - DOMAIN-KEYWORD,bjgzm                # 北极汉化组
-  - DOMAIN-SUFFIX,anime-sharing.com     # Anime-Sharing
-  - DOMAIN-SUFFIX,saucenao.com          # SauceNAO
-# 资源下载
-  - DOMAIN-SUFFIX,mikanani.me           # 蜜柑计划
-  - DOMAIN-SUFFIX,bangumi.moe           # 萌番组
-  - DOMAIN-SUFFIX,rutracker.org         # 俄罗斯综合BT
-#  - DOMAIN-SUFFIX,byrut.org             # 俄罗斯游戏BT
-# 兴趣技术
-  - DOMAIN-SUFFIX,virtualbox.org        # Vbox
-  - DOMAIN-SUFFIX,yugogo.xyz            # Littleyu科学上网技术分享
-  - DOMAIN-SUFFIX,bulianglin.com        # 不良林
-#  - DOMAIN-SUFFIX,hax.co.id             # Hax免费vps
-# 其他
-  - DOMAIN-SUFFIX,bmkar.com             # 無名網 R18
+# Porn
+  - DOMAIN-SUFFIX,bigcloud.click        # 好色TV CDN
+  - DOMAIN-KEYWORD,missav               # MissAV
+  - DOMAIN-SUFFIX,bestjavcdn.com
+  - DOMAIN-KEYWORD,9wm9                 # 無名網
+# Proxy
+  - DOMAIN-SUFFIX,uuu.glass             # iQzone
+  - DOMAIN-SUFFIX,2c.lol                # Free✈️
+# Tools
   - DOMAIN-SUFFIX,eitherchoice.com      # EitherChoice AI对比
   - DOMAIN-SUFFIX,tiekoetter.com        # SearXNG 搜索引擎
+# Website
+  - DOMAIN-SUFFIX,virtualbox.org        # Vbox
+  - DOMAIN-SUFFIX,yckceo.com            # 源仓库

@@ -1,0 +1,8 @@
+payload:                                #（间隔20个制表符）
+  - DOMAIN,emby.aca.best                # ACA & MisakaF
+  - DOMAIN,porn.aca.best
+  - DOMAIN-KEYWORD,misakaf              # MisakaF
+  - DOMAIN-SUFFIX,push-kr.cfprefer3.xyz
+  - DOMAIN-KEYWORD,pilipiliultra        # PiliPili
+  - DOMAIN-SUFFIX,123456.al             # TreeDiagram
+  - DOMAIN-SUFFIX,embyplus.org          # 纸片人小站
