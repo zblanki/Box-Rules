@@ -1,0 +1,20 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain": [
+                "emby.aca.best",
+                "porn.aca.best"
+            ],
+            "domain_suffix": [
+                "push-kr.cfprefer3.xyz",
+                "123456.al",
+                "embyplus.org"
+            ],
+            "domain_keyword": [
+                "misakaf",
+                "pilipiliultra"
+            ]
+        }
+    ]
+}

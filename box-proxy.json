@@ -1,0 +1,52 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "anime-sharing.com",
+                "acgfun.top",
+                "cangku.moe",
+                "hembed.com",
+                "iacg.rip",
+                "iacg.site",
+                "mikudm.net",
+                "saucenao.com",
+                "reimu.net",
+                "omnivore.app",
+                "asmr.one",
+                "bjgzm.com",
+                "fhxyyss.com",
+                "bangumi.moe",
+                "mikanani.me",
+                "rutracker.org",
+                "bulianglin.com",
+                "yugogo.xyz",
+                "colamanga.com",
+                "manwa.me",
+                "freevod.org",
+                "connectivitycheck.gstatic.com",
+                "translate.google.com",
+                "xn--ngstr-lra8j.com",
+                "googleapis.cn",
+                "googleapis.com",
+                "bigcloud.click",
+                "bestjavcdn.com",
+                "uuu.glass",
+                "2c.lol",
+                "eitherchoice.com",
+                "tiekoetter.com",
+                "virtualbox.org",
+                "yckceo.com"
+            ],
+            "domain_keyword": [
+                "sayhuahuo",
+                "hmoe",
+                "tsdm39",
+                "mwappimgs",
+                "zerobyw",
+                "missav",
+                "9wm9"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "port": 123,
+            "port_range": "5228:5230",
+            "domain_suffix": [
+                "ypojie.com",
+                "loli.net",
+                "syncthing.net",
+                "gov.cn"
+            ]
+        }
+    ]
+}
