@@ -14,8 +14,12 @@ payload:                                #（间隔20个制表符）
   - DOMAIN-SUFFIX,reimu.net             # 绅士御所
 # App
   - DOMAIN-SUFFIX,omnivore.app          # omnivore 稍后阅读
+  - DOMAIN-SUFFIX,syncthing.net         # Syncthing
 # ASMR
   - DOMAIN-SUFFIX,asmr.one              # ASMR Online
+  - DOMAIN-SUFFIX,asmr-100.com
+  - DOMAIN-SUFFIX,asmr-200.com
+  - DOMAIN-SUFFIX,asmr-300.com
   - DOMAIN-SUFFIX,bjgzm.com             # 北极汉化组
   - DOMAIN-SUFFIX,fhxyyss.com           # 风花雪月汉化组
 # BT
@@ -32,6 +36,8 @@ payload:                                #（间隔20个制表符）
   - DOMAIN-KEYWORD,zerobyw              # zero搬运网
 # Movies
   - DOMAIN-SUFFIX,freevod.org           # Free视频
+# Novel
+  - DOMAIN-SUFFIX,wenku8.net            # 轻小说文库
 # Google
 #  - DOMAIN-SUFFIX,services.googleapis.cn     # Google Play
 #  - DOMAIN-SUFFIX,translate.google.com       # 谷歌翻译
@@ -44,7 +50,11 @@ payload:                                #（间隔20个制表符）
 # Porn
   - DOMAIN-SUFFIX,bigcloud.click        # 好色TV CDN
   - DOMAIN-KEYWORD,missav               # MissAV
+  - DOMAIN-KEYWORD,avdocker
   - DOMAIN-SUFFIX,bestjavcdn.com
+  - DOMAIN-SUFFIX,geekwaver.com
+  - DOMAIN-SUFFIX,hillwaver.com
+  - DOMAIN-SUFFIX,myavlive.com
   - DOMAIN-KEYWORD,9wm9                 # 無名網
 # Proxy
   - DOMAIN-SUFFIX,uuu.glass             # iQzone
@@ -53,5 +63,6 @@ payload:                                #（间隔20个制表符）
   - DOMAIN-SUFFIX,eitherchoice.com      # EitherChoice AI对比
   - DOMAIN-SUFFIX,tiekoetter.com        # SearXNG 搜索引擎
 # Website
+  - DOMAIN-SUFFIX,annas-archive.org     # 安娜的档案
   - DOMAIN-SUFFIX,virtualbox.org        # Vbox
   - DOMAIN-SUFFIX,yckceo.com            # 源仓库
