@@ -50,11 +50,6 @@ payload:                                #（间隔20个制表符）
 # Porn
   - DOMAIN-SUFFIX,bigcloud.click        # 好色TV CDN
   - DOMAIN-KEYWORD,missav               # MissAV
-  - DOMAIN-KEYWORD,avdocker
-  - DOMAIN-SUFFIX,bestjavcdn.com
-  - DOMAIN-SUFFIX,geekwaver.com
-  - DOMAIN-SUFFIX,hillwaver.com
-  - DOMAIN-SUFFIX,myavlive.com
   - DOMAIN-KEYWORD,9wm9                 # 無名網
 # Proxy
   - DOMAIN-SUFFIX,uuu.glass             # iQzone
