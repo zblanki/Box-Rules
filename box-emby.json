@@ -4,16 +4,18 @@
         {
             "domain": [
                 "emby.aca.best",
-                "porn.aca.best"
-            ],
-            "domain_suffix": [
+                "porn.aca.best",
+                "stream1.misakaf.org",
+                "stream2.misakaf.org",
+                "stream3.misakaf.org",
+                "stream4.misakaf.org",
+                "emby.pilipiliultra.top",
+                "emby.pilipiliultra.com",
+                "stream_pilipili.misakaf.org",
                 "push-kr.cfprefer3.xyz",
-                "123456.al",
-                "embyplus.org"
-            ],
-            "domain_keyword": [
-                "misakaf",
-                "pilipiliultra"
+                "789.123456.al",
+                "embyplus.org",
+                "gd.9521732.xyz"
             ]
         }
     ]

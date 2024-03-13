@@ -1,8 +1,14 @@
 payload:                                #（间隔20个制表符）
-  - DOMAIN,emby.aca.best                # ACA & MisakaF
-  - DOMAIN,porn.aca.best
-  - DOMAIN-KEYWORD,misakaf              # MisakaF
-  - DOMAIN-SUFFIX,push-kr.cfprefer3.xyz
-  - DOMAIN-KEYWORD,pilipiliultra        # PiliPili
-  - DOMAIN-SUFFIX,123456.al             # TreeDiagram
-  - DOMAIN-SUFFIX,embyplus.org          # 纸片人小站
+  - '+.emby.aca.best'                   # ACA & MisakaF
+  - '+.porn.aca.best'           
+  - '+.stream1.misakaf.org'             # MisakaF
+  - '+.stream2.misakaf.org'
+  - '+.stream3.misakaf.org'
+  - '+.stream4.misakaf.org'
+  - '+.push-kr.cfprefer3.xyz'      
+  - '+.emby.pilipiliultra.top'          # PiliPili
+  - '+.emby.pilipiliultra.com'
+  - '+.stream_pilipili.misakaf.org' 
+  - '+.789.123456.al'                   # TreeDiagram
+  - '+.embyplus.org'                    # 纸片人小站
+  - '+.gd.9521732.xyz'
