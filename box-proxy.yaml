@@ -1,63 +1,76 @@
 payload:                                #（间隔20个制表符）
 # ACGMN
-  - DOMAIN-SUFFIX,anime-sharing.com     # Anime-Sharing
-  - DOMAIN-SUFFIX,acgfun.top            # AcgFun
-  - DOMAIN-SUFFIX,cangku.moe            # 绅士仓库
-  - DOMAIN-SUFFIX,hembed.com            # hanime1.me CDN
-  - DOMAIN-KEYWORD,sayhuahuo            # 花火学园
-  - DOMAIN-SUFFIX,iacg.rip              # IACG
-  - DOMAIN-SUFFIX,iacg.site
-  - DOMAIN-KEYWORD,hmoe                 # 萌幻之乡
-  - DOMAIN-KEYWORD,tsdm39               # 天使动漫论坛
-  - DOMAIN-SUFFIX,mikudm.net            # 天使动漫论坛 img
-  - DOMAIN-SUFFIX,saucenao.com          # SauceNAO 搜图
-  - DOMAIN-SUFFIX,reimu.net             # 绅士御所
+  - '+.anime-sharing.com'               # Anime-Sharing
+  - '+.acgfun.moe'                      # AcgFun
+  - '+.cangku.moe'                      # 绅士仓库
+  - '+.hembed.com'                      # hanime1.me CDN
+  - '+.sayhuahuo.xyz'                   # 花火学园
+  - '+.sayhuahuo.net'
+  - '+.iacg.rip'                        # IACG
+  - '+.iacg.blog'
+  - '+.iacg.site'
+  - '+.hmoeh.com'                       # 萌幻之乡
+  - '+.tsdm39.com'                      # 天使动漫论坛
+  - '+.tsdm39.net'
+  - '+.ts-dm.net'                       # 天使动漫论坛 img
+  - '+.mikudm.net'            
+  - '+.saucenao.com'                    # SauceNAO 搜图
+  - '+.reimu.net'                       # 绅士御所
 # App
-  - DOMAIN-SUFFIX,omnivore.app          # omnivore 稍后阅读
-  - DOMAIN-SUFFIX,syncthing.net         # Syncthing
+  - '+.omnivore.app'                    # omnivore 稍后阅读
+  - '+.syncthing.net'                   # Syncthing
 # ASMR
-  - DOMAIN-SUFFIX,asmr.one              # ASMR Online
-  - DOMAIN-SUFFIX,asmr-100.com
-  - DOMAIN-SUFFIX,asmr-200.com
-  - DOMAIN-SUFFIX,asmr-300.com
-  - DOMAIN-SUFFIX,bjgzm.com             # 北极汉化组
-  - DOMAIN-SUFFIX,fhxyyss.com           # 风花雪月汉化组
+  - '+.asmr.one'                        # ASMR Online
+  - '+.asmr-100.com'
+  - '+.asmr-200.com'
+  - '+.asmr-300.com'
+  - '+.bjgzm.com'                       # 北极汉化组
+  - '+.fhxyyss.com'                     # 风花雪月汉化组
 # BT
-  - DOMAIN-SUFFIX,bangumi.moe           # 萌番组
-  - DOMAIN-SUFFIX,mikanani.me           # 蜜柑计划
-  - DOMAIN-SUFFIX,rutracker.org         # 俄罗斯综合BT
+  - '+.bangumi.moe'                     # 萌番组
+#  - '+.mikanani.me'                     # 蜜柑计划
+  - '+.rutracker.org'                   # 俄罗斯综合BT
+  - '+.rutracker.net'
+  - '+.rutracker.cc'
 # Blog
-  - DOMAIN-SUFFIX,bulianglin.com        # 不良林
-  - DOMAIN-SUFFIX,yugogo.xyz            # Littleyu科学上网技术分享
+  - '+.bulianglin.com'                  # 不良林
+  - '+.yugogo.xyz'                      # Littleyu科学上网技术分享
 # Comic
-  - DOMAIN-SUFFIX,colamanga.com         # COCO漫画
-  - DOMAIN-SUFFIX,manwa.me              # 漫蛙
-  - DOMAIN-KEYWORD,mwappimgs
-  - DOMAIN-KEYWORD,zerobyw              # zero搬运网
+  - '+.colamanga.com'                   # COCO漫画
+  - '+.manwa.me'                        # 漫蛙
+  - '+.mwappimgs.cc'
+  - '+.zerobyw.com'                     # zero搬运网
+  - '+.zerobywns.com'
 # Movies
-  - DOMAIN-SUFFIX,freevod.org           # Free视频
+#  - '+.nivod.tv'                        # 泥视频（泥巴视频）
+  - '+.nivod5.tv'
+  - '+.nivod8.tv'
 # Novel
-  - DOMAIN-SUFFIX,wenku8.net            # 轻小说文库
+  - '+.wenku8.com'                      # 轻小说文库
+  - '+.wenku8.net'
+  - '+.wenku8.cc'
 # Google
-#  - DOMAIN-SUFFIX,services.googleapis.cn     # Google Play
-#  - DOMAIN-SUFFIX,translate.google.com       # 谷歌翻译
-#  - DOMAIN-SUFFIX,translate.googleapis.com   # 谷歌翻译
-  - DOMAIN-SUFFIX,connectivitycheck.gstatic.com
-  - DOMAIN-SUFFIX,translate.google.com  # 谷歌翻译
-  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com   # Google Play 国内 CDN
-  - DOMAIN-SUFFIX,googleapis.cn
-  - DOMAIN-SUFFIX,googleapis.com
+#  - '+.services.googleapis.cn'          # Google Play
+#  - '+.translate.google.com'            # 谷歌翻译
+#  - '+.translate.googleapis.com'        # 谷歌翻译
+  - '+.connectivitycheck.gstatic.com'
+  - '+.translate.google.com'             # 谷歌翻译
+  - '+.xn--ngstr-lra8j.com'              # Google Play 国内 CDN
+  - '+.googleapis.cn'
+  - '+.googleapis.com'
 # Porn
-  - DOMAIN-SUFFIX,bigcloud.click        # 好色TV CDN
-  - DOMAIN-KEYWORD,missav               # MissAV
-  - DOMAIN-KEYWORD,9wm9                 # 無名網
+  - '+.bigcloud.click'                   # 好色TV CDN
+  - '+.recombee.com'                     # MissAV CDN
+  - '+.9wm9.cc'                          # 無名網
+  - '+.9wm9.xyz'
 # Proxy
-  - DOMAIN-SUFFIX,uuu.glass             # iQzone
-  - DOMAIN-SUFFIX,2c.lol                # Free✈️
+  - '+.uuu.glass'                        # iQzone
+  - '+.2c.lol'                           # Free✈️
 # Tools
-  - DOMAIN-SUFFIX,eitherchoice.com      # EitherChoice AI对比
-  - DOMAIN-SUFFIX,tiekoetter.com        # SearXNG 搜索引擎
+  - '+.eitherchoice.com'                 # EitherChoice AI对比
+  - '+.tiekoetter.com'                   # SearXNG 搜索引擎
+  - '+.tiekoetter.cloud'
 # Website
-  - DOMAIN-SUFFIX,annas-archive.org     # 安娜的档案
-  - DOMAIN-SUFFIX,virtualbox.org        # Vbox
-  - DOMAIN-SUFFIX,yckceo.com            # 源仓库
+  - '+.annas-archive.org'                # 安娜的档案
+#  - '+.virtualbox.org'                   # Vbox
+  - '+.yckceo.com'                       # 源仓库
