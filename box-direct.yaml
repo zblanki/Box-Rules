@@ -1,6 +1,4 @@
 payload:                                #（间隔20个制表符）
-  - DST-PORT,123                        # NTP 服务器校正时间
-#  - DST-PORT,5228-5230                  # FCM 谷歌的统一推送
-  - DOMAIN-SUFFIX,ypojie.com            # 亿破姐(易破解)
-  - DOMAIN-SUFFIX,loli.net              # SM.MS免费图床的图片CDN域名
-  - DOMAIN-SUFFIX,gov.cn
+  - '+.ypojie.com'                      # 亿破姐(易破解)
+  - '+.loli.net'                        # SM.MS免费图床的图片CDN域名
+  - '+.gov.cn'
