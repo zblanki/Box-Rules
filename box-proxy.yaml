@@ -48,6 +48,7 @@ payload:                                #（间隔20个制表符）
   - DOMAIN-SUFFIX,googleapis.cn
   - DOMAIN-SUFFIX,googleapis.com
 # Porn
+  - DOMAIN-SUFFIX,coomer.su             # Coomer OnlyFans镜像
   - DOMAIN-SUFFIX,bigcloud.click        # 好色TV CDN
   - DOMAIN-KEYWORD,missav               # MissAV
   - DOMAIN-KEYWORD,9wm9                 # 無名網
