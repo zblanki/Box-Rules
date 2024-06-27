@@ -2,6 +2,7 @@ payload:                                #（间隔20个制表符）
 # ACGMN
   - '+.anime-sharing.com'               # Anime-Sharing
   - '+.acgfun.moe'                      # AcgFun
+  - '+.kfpromax.com'                    # 绯月ScarletMoon
   - '+.cangku.moe'                      # 绅士仓库
   - '+.hembed.com'                      # hanime1.me CDN
   - '+.sayhuahuo.xyz'                   # 花火学园
@@ -10,6 +11,7 @@ payload:                                #（间隔20个制表符）
   - '+.iacg.blog'
   - '+.iacg.site'
   - '+.hmoeh.com'                       # 萌幻之乡
+  - '+.moe-acg.com'
   - '+.tsdm39.com'                      # 天使动漫论坛
   - '+.tsdm39.net'
   - '+.ts-dm.net'                       # 天使动漫论坛 img
