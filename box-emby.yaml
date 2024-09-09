@@ -6,8 +6,7 @@ payload:                                #（间隔20个制表符）
   - '+.stream3.misakaf.org'
   - '+.stream4.misakaf.org'
   - '+.push-kr.cfprefer3.xyz'      
-  - '+.emby.pilipiliultra.top'          # PiliPili
-  - '+.emby.pilipiliultra.com'
+  - '+.pilipili.club'                   # PiliPili
   - '+.stream_pilipili.misakaf.org' 
   - '+.789.123456.al'                   # TreeDiagram
   - '+.embyplus.org'                    # 纸片人小站
