@@ -2,6 +2,10 @@
     "version": 1,
     "rules": [
         {
+            "domain": [
+                "i.hmoe.link",
+                "wiki.metacubex.one"
+            ],
             "domain_suffix": [
                 "anime-sharing.com",
                 "acgfun.moe",
@@ -19,8 +23,10 @@
                 "tsdm39.net",
                 "ts-dm.net",
                 "mikudm.net",
+                "lightnovel.us",
                 "saucenao.com",
                 "reimu.net",
+                "airtable.com",
                 "omnivore.app",
                 "syncthing.net",
                 "asmr.one",
@@ -55,7 +61,6 @@
                 "recombee.com",
                 "9wm9.cc",
                 "9wm9.xyz",
-                "uuu.glass",
                 "2c.lol",
                 "eitherchoice.com",
                 "tiekoetter.com",

@@ -12,14 +12,17 @@ payload:                                #（间隔20个制表符）
   - '+.iacg.site'
   - '+.hmoeh.com'                       # 萌幻之乡
   - '+.moe-acg.com'
+  - 'i.hmoe.link'
   - '+.tsdm39.com'                      # 天使动漫论坛
   - '+.tsdm39.net'
   - '+.ts-dm.net'                       # 天使动漫论坛 img
-  - '+.mikudm.net'            
+  - '+.mikudm.net'
+  - '+.lightnovel.us'                   # 轻之国度
   - '+.saucenao.com'                    # SauceNAO 搜图
   - '+.reimu.net'                       # 绅士御所
 # App
-  - '+.omnivore.app'                    # omnivore 稍后阅读
+  - '+.airtable.com'                    # Airtable
+  - '+.omnivore.app'                    # Omnivore 稍后阅读
   - '+.syncthing.net'                   # Syncthing
 # ASMR
   - '+.asmr.one'                        # ASMR Online
@@ -67,8 +70,8 @@ payload:                                #（间隔20个制表符）
   - '+.9wm9.cc'                          # 無名網
   - '+.9wm9.xyz'
 # Proxy
-  - '+.uuu.glass'                        # iQzone
   - '+.2c.lol'                           # Free✈️
+  - 'wiki.metacubex.one'                 # mihomo wiki
 # Tools
   - '+.eitherchoice.com'                 # EitherChoice AI对比
   - '+.tiekoetter.com'                   # SearXNG 搜索引擎
