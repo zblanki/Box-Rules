@@ -1,6 +1,5 @@
 payload:                                #（间隔20个制表符）
-  - '+.emby.aca.best'                   # ACA & MisakaF
-  - '+.porn.aca.best'           
+  - '+.aca.misakaf.org'                   # ACA & MisakaF        
   - '+.stream1.misakaf.org'             # MisakaF
   - '+.stream2.misakaf.org'
   - '+.stream3.misakaf.org'
