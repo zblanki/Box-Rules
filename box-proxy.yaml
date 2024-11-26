@@ -2,8 +2,8 @@ payload:                                #（间隔20个制表符）
 # ACGMN
   - '+.anime-sharing.com'               # Anime-Sharing
   - '+.acgfun.moe'                      # AcgFun
+  - '+.teaeee.com'                      # 二次元下午茶
   - '+.kfpromax.com'                    # 绯月ScarletMoon
-  - '+.cangku.moe'                      # 绅士仓库
   - '+.hembed.com'                      # hanime1.me CDN
   - '+.sayhuahuo.xyz'                   # 花火学园
   - '+.sayhuahuo.net'
@@ -13,13 +13,14 @@ payload:                                #（间隔20个制表符）
   - '+.hmoeh.com'                       # 萌幻之乡
   - '+.moe-acg.com'
   - 'i.hmoe.link'
+  - '+.lightnovel.us'                   # 轻之国度
+  - '+.saucenao.com'                    # SauceNAO 搜图
+  - '+.cangku.moe'                      # 绅士仓库
+  - '+.reimu.net'                       # 绅士御所
   - '+.tsdm39.com'                      # 天使动漫论坛
   - '+.tsdm39.net'
   - '+.ts-dm.net'                       # 天使动漫论坛 img
   - '+.mikudm.net'
-  - '+.lightnovel.us'                   # 轻之国度
-  - '+.saucenao.com'                    # SauceNAO 搜图
-  - '+.reimu.net'                       # 绅士御所
 # App
   - '+.airtable.com'                    # Airtable
   - '+.omnivore.app'                    # Omnivore 稍后阅读
