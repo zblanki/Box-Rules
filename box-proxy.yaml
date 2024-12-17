@@ -5,8 +5,9 @@ payload:                                #（间隔20个制表符）
   - '+.teaeee.com'                      # 二次元下午茶
   - '+.kfpromax.com'                    # 绯月ScarletMoon
   - '+.hembed.com'                      # hanime1.me CDN
-  - '+.sayhuahuo.xyz'                   # 花火学园
+  - '+.sayhanabi.net'                   # 花火学园
   - '+.sayhuahuo.net'
+  - '+.sayhuahuo.xyz'
   - '+.iacg.rip'                        # IACG
   - '+.iacg.blog'
   - '+.iacg.site'
