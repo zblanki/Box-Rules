@@ -22,6 +22,7 @@ payload:                                #（间隔20个制表符）
   - '+.tsdm39.net'
   - '+.ts-dm.net'                       # 天使动漫论坛 img
   - '+.mikudm.net'
+  - '+.xdlabc.top'                      # 欣哆啦
 # App
   - '+.airtable.com'                    # Airtable
   - '+.omnivore.app'                    # Omnivore 稍后阅读
@@ -74,6 +75,8 @@ payload:                                #（间隔20个制表符）
   - '+.9wm9.cc'                          # 無名網
   - '+.9wm9.xyz'
 # Proxy
+  - '+.acaisbest.com'                    # ACA
+  - '+.ctc.run'                          # CTC02
   - '+.2c.lol'                           # Free✈️
   - 'wiki.metacubex.one'                 # mihomo wiki
 # Tools
