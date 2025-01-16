@@ -72,7 +72,9 @@ payload:                                #（间隔20个制表符）
 # Porn
   - '+.coomer.su'                        # Coomer OnlyFans镜像
   - '+.bigcloud.click'                   # 好色TV CDN
-  - '+.recombee.com'                     # MissAV CDN
+  - '+.missav.ai'                        # MissAV
+  - '+.missav.ws'
+  - '+.recombee.com'
   - '+.surrit.com'
   - '+.sijishe.link'                     # 司机社
   - '+.urlimage.cc'
